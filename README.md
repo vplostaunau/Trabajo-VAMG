@@ -1,6 +1,6 @@
 # GRUPO VAMG
 
-
+![Carátula de VAMG](assets/Carátula.png)
 
 # TABLA DE CONTENIDO
 
@@ -14,6 +14,7 @@
 
 # **INTEGRANTES DEL GRUPO**
 
+![Foto grupal](assets/Foto grupal.jpeg)
 
 # 👥 DESCRIPCIÓN DE MIEMBROS DEL GRUPO
 **1) Gabriel Miguelangel Medina Pinedo**
