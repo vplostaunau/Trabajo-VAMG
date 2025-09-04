@@ -2,6 +2,13 @@
 
 
 
+# TABLA DE CONTENIDO
+
+- [Descripción del grupo](#descripción-del-grupo)
+- [Integrantes del grupo](#integrantes-del-grupo)
+- [Lenguaje de programación](#lenguaje-de-programación)
+- [Colaboradores](#colaboradores)
+- [Imágenes](#imágenes)
 # 🚀 DESCRIPCIÓN DEL GRUPO
 
 
