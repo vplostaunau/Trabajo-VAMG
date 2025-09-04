@@ -10,7 +10,7 @@
 
 # 👥 DESCRIPCIÓN DE MIEMBROS DEL GRUPO
 **1) Gabriel Miguelangel Medina Pinedo**
-![Gabriel](assets/gabriel.jpg)
+![Gabriel](assets/Gabriel.jpg)
 **EDAD:** 18 años
 **PASATIEMPO:** Leer novelas psicológicas y poemas, además del deporte.
 **ROL:** Redactor de contenido
