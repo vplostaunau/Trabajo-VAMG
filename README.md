@@ -1,1 +1,11 @@
-# workspace
+# GRUPO VAMG
+
+
+
+# 🚀 DESCRIPCIÓN DEL GRUPO
+
+
+# **INTEGRANTES DEL GRUPO**
+
+
+# 👥 DESCRIPCIÓN DE MIEMBROS DEL GRUPO
