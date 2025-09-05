@@ -94,5 +94,5 @@ Se utilizó principalmente Git y GitHub para la gestión de versiones y la organ
 - Paucar Fernandez Margareth Kiara (colaborador) - margareth.paucar@upch.pe
 - Peña Lostaunau Vania Zaleth (colaborador) - vania.pena@upch.pe
 - Marin Josue Marvin Sucapuca (colaborador) - marvin.marin@upch.pe
-- Medina Pinedo Gabriel Miguelangel (colaborador) -
+- Medina Pinedo Gabriel Miguelangel (colaborador) - gabriel.medina.p@upch.pe
 - Villena Camero Vanessa Abigail (colaborador) - vanessa.villena@upch.pe
