@@ -10,10 +10,10 @@
 - [Colaboradores](#colaboradores)
 - [Imágenes](#imágenes)
 # 🚀 DESCRIPCIÓN DEL GRUPO
-
+---
 
 # **INTEGRANTES DEL GRUPO**
-
+---
 ![Foto grupal](assets/Foto%20grupal.jpeg)
 
 # 👥 DESCRIPCIÓN DE INTEGRANTES DEL GRUPO
