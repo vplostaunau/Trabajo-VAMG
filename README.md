@@ -4,7 +4,7 @@
 
 # 📑 TABLA DE CONTENIDO
 ---
-- [🚀 DESCRIPCIÓN DEL GRUPO](#-descripción-del-grupo)
+- [Descripción del grupo](#-descripción-del-grupo)
 - [Integrantes del grupo](#-integrantes-del-grupo)
 - [Descripción de integrantes del grupo](#-descripción-de-integrantes-del-grupo)
 - [Lenguaje de programación](#lenguaje-de-programación)
