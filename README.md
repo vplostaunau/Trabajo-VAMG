@@ -50,9 +50,23 @@
 
 **EDAD:** 17 años
 
-**PASATIEMPO:** Disfruta correr, dibujar, leer y ver películas.
+**PASATIEMPO:** Correr, dibujar, leer y ver películas.
 
 **ROL:** Apoyo general y revisión:
 
 \- Colabora en la revisión de entregables para detectar errores o inconsistencias.
+
+**3) Vania Zaleth Peña Lostaunau**
+
+
+
+**EDAD:** 17 años
+
+**PASATIEMPO:** Leer, escuchar música y tocar instrumentos.
+
+**ROL:** Coordinación general y gestión de repositorio:
+
+\- Asegurar la correcta integración y actualización del código.
+
+\- Organizar y mantener el repositorio.
 
