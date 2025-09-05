@@ -3,7 +3,7 @@
 ![Carátula de VAMG](assets/Carátula.png)
 
 # TABLA DE CONTENIDO
-
+---
 - [Descripción del grupo](#descripción-del-grupo)
 - [Integrantes del grupo](#integrantes-del-grupo)
 - [Lenguaje de programación](#lenguaje-de-programación)
