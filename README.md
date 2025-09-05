@@ -56,7 +56,7 @@
 
 \- Colabora en la revisión de entregables para detectar errores o inconsistencias.
 
-**3) Vania Zaleth Peña Lostaunau**
+**4) Vania Zaleth Peña Lostaunau**
 
 
 
@@ -70,3 +70,14 @@
 
 \- Organizar y mantener el repositorio.
 
+**5) Marvin Josue Marin Sucapuca**
+
+
+
+**EDAD:** 18 años
+
+**PASATIEMPO:** Jugar basket, tocar el ukelele, correr y ver series.
+
+**ROL:** Apoyo en organización y logística del proyecto:
+
+\- Colaboró en la planificación general del trabajo en equipo.
