@@ -35,7 +35,7 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH
 
 **2) Vanessa Abigail Villena Camero**
 
-
+![Vanessa](assets/Vanessa.jpeg)
 
 **EDAD:** 17 años
 
