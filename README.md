@@ -2,21 +2,22 @@
 
 ![Carátula de VAMG](assets/Carátula.png)
 
-# TABLA DE CONTENIDO
+# 📑 TABLA DE CONTENIDO
 ---
-- [Descripción del grupo](#descripción-del-grupo)
+- [🚀 DESCRIPCIÓN DEL GRUPO](#-descripción-del-grupo)
 - [Integrantes del grupo](#integrantes-del-grupo)
+- [Descripción de integrantes del grupo](
 - [Lenguaje de programación](#lenguaje-de-programación)
 - [Colaboradores](#colaboradores)
 - [Imágenes](#imágenes)
 # 🚀 DESCRIPCIÓN DEL GRUPO
 ---
 
-# **INTEGRANTES DEL GRUPO**
+# **👥 INTEGRANTES DEL GRUPO**
 ---
 ![Foto grupal](assets/Foto%20grupal.jpeg)
 
-# 👥 DESCRIPCIÓN DE INTEGRANTES DEL GRUPO
+## 📝 DESCRIPCIÓN DE INTEGRANTES DEL GRUPO
 ---
 **1) Gabriel Miguelangel Medina Pinedo**
 
