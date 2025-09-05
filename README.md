@@ -49,7 +49,7 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH
 
 **3) Margareth Kiara Paucar Fernandez**
 
-
+![MARGARETH](assets/Margareth.jpeg)
 
 **EDAD:** 17 años
 
