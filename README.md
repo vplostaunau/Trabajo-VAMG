@@ -39,5 +39,5 @@
 
 **ROL:** Coordinación de equipo y apoyo general:
 
-/- Encargada de apoyar a los integrantes en tareas específicas según necesidad.
-/- Encargada de elaborar la carátula y materiales gráficos del proyecto.
+\- Encargada de apoyar a los integrantes en tareas específicas según necesidad.
+\- Encargada de elaborar la carátula y materiales gráficos del proyecto.
