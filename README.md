@@ -61,7 +61,7 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH
 
 **4) Vania Zaleth Peña Lostaunau**
 
-
+![Vania](assets/Vania.jpeg)
 
 **EDAD:** 17 años
 
