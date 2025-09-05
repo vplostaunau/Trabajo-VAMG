@@ -43,3 +43,16 @@
 \- Encargada de apoyar a los integrantes en tareas específicas según necesidad.
 
 \- Encargada de elaborar la carátula y materiales gráficos del proyecto.
+
+**3) Margareth Kiara Paucar Fernandez**
+
+
+
+**EDAD:** 17 años
+
+**PASATIEMPO:** Disfruta correr, dibujar, leer y ver películas.
+
+**ROL:** Apoyo general y revisión:
+
+\- Colabora en la revisión de entregables para detectar errores o inconsistencias.
+
