@@ -5,11 +5,10 @@
 # 📑 TABLA DE CONTENIDO
 ---
 - [🚀 DESCRIPCIÓN DEL GRUPO](#-descripción-del-grupo)
-- [Integrantes del grupo](#integrantes-del-grupo)
-- [Descripción de integrantes del grupo](
+- [Integrantes del grupo](#-integrantes-del-grupo)
+- [Descripción de integrantes del grupo](#-descripción-de-integrantes-del-grupo)
 - [Lenguaje de programación](#lenguaje-de-programación)
-- [Colaboradores](#colaboradores)
-- [Imágenes](#imágenes)
+
 # 🚀 DESCRIPCIÓN DEL GRUPO
 ---
 
@@ -17,7 +16,7 @@
 ---
 ![Foto grupal](assets/Foto%20grupal.jpeg)
 
-## 📝 DESCRIPCIÓN DE INTEGRANTES DEL GRUPO
+# 📝 DESCRIPCIÓN DE INTEGRANTES DEL GRUPO
 ---
 **1) Gabriel Miguelangel Medina Pinedo**
 
