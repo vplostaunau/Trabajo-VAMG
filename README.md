@@ -86,8 +86,8 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH
 \- Colaboró en la planificación general del trabajo en equipo.
 
 # 🛠️ LENGUAJE DE PROGRAMACIÓN Y HERRAMIENTAS UTILIZADAS
-
+---
 Se utilizó principalmente Git y GitHub para la gestión de versiones y la organización del código del proyecto. No se requirió el uso de lenguajes de programación específicos, ya que el enfoque principal estuvo en la planificación, diseño y documentación del prototipo.
 
 # 🤝 COLABORADORES
-
+---
