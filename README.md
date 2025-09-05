@@ -1,5 +1,5 @@
 # GRUPO VAMG
-
+---
 ![Carátula de VAMG](assets/Carátula.png)
 
 # 📑 TABLA DE CONTENIDO
