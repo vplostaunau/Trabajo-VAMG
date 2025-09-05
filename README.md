@@ -17,6 +17,7 @@
 ![Foto grupal](assets/Foto%20grupal.jpeg)
 
 # 👥 DESCRIPCIÓN DE INTEGRANTES DEL GRUPO
+---
 **1) Gabriel Miguelangel Medina Pinedo**
 
 ![Gabriel](assets/Gabriel.jpeg)
