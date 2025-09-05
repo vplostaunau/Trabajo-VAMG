@@ -11,6 +11,8 @@
 
 # 🚀 DESCRIPCIÓN DEL GRUPO
 ---
+Bienvenidos al repositorio del grupo VAMG del curso PROCESOS DE INNOVACION EN BIOINGENIERIA.
+Somos estudiantes de Ingeniería Biomédica PUCP-UPCH 
 
 # **👥 INTEGRANTES DEL GRUPO**
 ---
