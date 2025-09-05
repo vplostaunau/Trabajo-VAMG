@@ -75,7 +75,7 @@ Somos estudiantes de Ingeniería Biomédica PUCP-UPCH
 
 **5) Marvin Josue Marin Sucapuca**
 
-
+![Marvin](assets/Marvin.png)
 
 **EDAD:** 18 años
 
@@ -91,3 +91,8 @@ Se utilizó principalmente Git y GitHub para la gestión de versiones y la organ
 
 # 🤝 COLABORADORES
 ---
+- Paucar Fernandez Margareth Kiara (colaborador) - margareth.paucar@upch.pe
+- Peña Lostaunau Vania Zaleth (colaborador) - vania.pena@upch.pe
+- Marin Josue Marvin Sucapuca (colaborador) - marvin.marin@upch.pe
+- Medina Pinedo Gabriel Miguelangel (colaborador) -
+- Villena Camero Vanessa Abigail (colaborador) - vanessa.villena@upch.pe
